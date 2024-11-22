@@ -44,7 +44,7 @@
 //   }
 export default function Affichage(props) {
   return (
-    <div className="d-flex flex-wrap justify-content-start">
+    <div className="container d-flex flex-wrap justify-content-start">
     <div
       className="card"
       style={{
