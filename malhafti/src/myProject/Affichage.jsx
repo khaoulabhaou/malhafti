@@ -1,6 +1,5 @@
 export default function Affichage(props) {
   return (
-  <div className="malhfa-container">
     <div className="container d-flex flex-wrap justify-content-start">
     <div
       className="card"
@@ -25,6 +24,5 @@ export default function Affichage(props) {
       </div>
     </div>
    </div>
-  </div>
   );
 }

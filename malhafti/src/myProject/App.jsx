@@ -3,7 +3,7 @@ import Affichage from "./Affichage.jsx";
 import './style.css'
 export default function Malhfa() {
   return (
-    <div>
+    <div className="container">
       {malhafti.malhafti.map((element, i) => {
         return (
           <Affichage malhafti={element} key={i} />
