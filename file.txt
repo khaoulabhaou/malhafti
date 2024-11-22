@@ -1,0 +1,25 @@
+ //   
+    ,
+    ,
+    ,
+    { "id": "47", "type": "", "size": "", "price": "", "categorie": "ڭاز", "image": "" },
+    { "id": "48", "type": "", "size": "", "price": "", "categorie": "ڭاز", "image": "" },
+    { "id": "49", "type": "", "size": "", "price": "", "categorie": "ڭاز", "image": "" },
+    { "id": "50", "type": "", "size": "", "price": "", "categorie": "ڭاز", "image": "" }
+    // 
+  
+  ///////////////////////////////////////////////////////////////
+
+  affichage.jsx
+
+      // <div className="col-3">
+    // <div className="card" style={{width:"250px"}}>
+    // <img src={props.malhafti.image} className="card-img-top"/>
+    // <div className="card-body">
+    // <h5 className="card-title">{props.malhafti.type}</h5>
+    // <p className="card-text"><p>{props.malhafti.price}</p>{props.malhafti.categorie}</p>
+    // <Link to={`/malhafti/${props.malhafti.id}`} className="btn btn-primary">buy</Link>
+    // </div>
+    // </div>
+    // </div>
+    
